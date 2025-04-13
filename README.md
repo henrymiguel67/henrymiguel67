@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry Miguel Angulo Gómez</h1>
-<h3 align="center">Hello, I am Henry Miguel Angulo Gómez, I am 19 years old, I live in Floridablanca. I am in CampusLands in the afternoon group U3 0225 Bucaramanga, at the moment I am dedicated to learn new knowledge in campus, my studies are bachelor, my knowledge is basic in the subject of programming, my expectations are to learn what is related to programming and to improve my knowledge.</h3>
+<h3 align="center">Hello, I am Henry Miguel Angulo Gómez, I am 20 years old, I live in Floridablanca. I am in CampusLands in the afternoon group U3 0225 Bucaramanga, at the moment I am dedicated to learn new knowledge in campus, my studies are bachelor, my knowledge is basic in the subject of programming, my expectations are to learn what is related to programming and to improve my knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrymiguel67&label=Profile%20views&color=0e75b6&style=flat" alt="henrymiguel67" /> </p>
 
